@@ -1,0 +1,8 @@
+Tipo de Dor de Cabeça,Dor constante e não pulsátil,Sensação de pressão ou aperto,Dor pulsátil ou latejante,Dor moderada a severa,Sensibilidade à luz,Sensibilidade ao som,Náusea/vômito,Aura (distúrbios visuais),Dor intensa e penetrante,Episódios em grupos (salvas),Vermelhidão e lacrimejamento no olho,Congestão ou corrimento nasal,Agitação/inquietação,Dor e pressão na testa e maçãs do rosto,Febre,Congestão nasal,Secreção nasal,Piora ao inclinar/ deitar,Uso regular e prolongado de medicamentos,Surda e persistente,Irritabilidade,Dificuldade de concentração,Mudanças hormonais,Lesão na cabeça,Duração: semanas ou meses após trauma
+Cefaleia Tensional,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Enxaqueca (Migrânea),0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Cefaleia em Salvas,0,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cefaleia Sinusal,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0
+Cefaleia de Rebote,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0
+Cefaleia Hormonal,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Cefaleia Pós-Traumática,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
