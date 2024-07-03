@@ -12,4 +12,4 @@ utilizando um modelo de Random Forest.**
 - **_pandas_**
 - **_sklearn_**
 - **_matplotlib_**
-- **_tkinter _**
+- **_tkinter_**
